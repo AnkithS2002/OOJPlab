@@ -1,6 +1,6 @@
 
 class Playerclass {
-	int id;
+    int id;
     String name;
     int[] scores;
     int no_matches_played;
